@@ -1,0 +1,156 @@
+.profile-fetch-failure-container{
+    display: flex;
+    height: 100%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.profile-fetch-failure-heading{
+    font-size: 32px;
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.profile-fetch-failure-para{
+    color: #4a4a4a;
+    font-size: 26px;
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.try-again-button{
+    border: none;
+    background-color: #007cb0;
+    color: #ffffff;
+    font-size: 20px;
+    outline: none;
+    cursor: pointer;
+    height: 40px;
+    width: 120px;
+    border-radius: 5px;
+}
+
+.loader-container{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.doctor-profile-banner{
+    background-color: #007cb0;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    height: 150px;
+    padding: 25px;
+}
+
+.doctor-profile-heading-container{
+    width: 100%;
+}
+
+.doctor-profile-heading{
+    text-align: center;
+    font-family: 'Hanken Grotesk';
+    font-size: 36px;
+    font-weight: 500;
+}
+
+.home-icon-container{
+    width: 100px;
+}
+
+.home-icon{
+    width: 50px;
+    height: 50px;
+    color: #ffffff;
+    margin: auto;
+}
+
+.profile-fetch-success-main-container{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    font-family:  'Hanken Grotesk';
+}
+
+.profile-fetch-success-img-container{
+    border: #1e74ad solid 1px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 320px;
+}
+
+.profile-fetch-success-profile-img{
+    width: 250px;
+    height: 250px;
+    margin: 10px;
+}
+
+.profile-fetch-success-book-button{
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-family:  'Hanken Grotesk';
+    font-size: 24px;
+    background-color:  #1e74ad;
+    color: #ffffff;
+    height: 50px;
+    width: 100%;
+}
+
+.profile-fetch-success-name{
+    font-size: 32px;
+    color: #e31a47;
+    margin-bottom: 10px;
+}
+
+.profile-fetch-success-specialization{
+    font-size: 24px;
+}
+
+.horizontal-line{
+    margin-top: 30px;
+    color: #dbdbdb;
+    opacity: 0.4;
+}
+
+.op-table-container{
+    margin-top: 20px;
+}
+
+.profile-op-timing-table{
+    margin-top: 20px;
+}
+
+.profile-op-timing-table th,
+.profile-op-timing-table td {
+    border: #000000 solid 1px;
+    text-align: center;
+    font-family:  'Hanken Grotesk';
+    
+}
+
+.profile-op-timing-table th{
+    background-color: #1e74ad;
+    color: #ffffff;
+}
+
+.profile-fetch-success-headings{
+    color: #1e74ad;
+    font-size: 28px;
+    font-weight: 600;
+    margin-top: 20px;
+}
+
+.profile-fetch-success-paras{
+    font-size: 18px;
+    margin-top: 10px;
+}

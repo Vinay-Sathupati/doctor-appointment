@@ -1,0 +1,54 @@
+
+.doctor-card-each-list{
+    display: flex;
+    gap: 16px;
+    width: 500px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    padding: 20px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    background-color: #ffffff;
+    font-family: 'Hanken Grotesk';
+    border-radius: 10px;
+}
+
+
+.doctors-profile-image{
+    width: 150px;
+    height: 150px;
+}
+
+.name-button-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.doc-name{
+    font-size: 30px;
+    font-weight: 600;
+    color: #1e74ad;
+}
+
+.button-container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.view-profile-button, .book-appointment-button{
+    background-color: #1e74ad;;
+    color: #ffffff;
+    font-family: 'Hanken Grotesk';
+    border-radius: 5px;
+    font-size: 16px;
+    height: 30px;
+    width: 100px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+.book-appointment-button{
+     width: 180px;
+}

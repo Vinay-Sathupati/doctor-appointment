@@ -1,0 +1,50 @@
+*{
+    margin: 0px;
+    font-family: 'Hanken Grotesk';
+}
+
+.nav-container{
+    background-color: #1e74ad;
+    height: 150px;
+    width: 100vw;
+    font-family: 'Hanken Grotesk';
+    color: #ffffff;
+    padding: 20px;
+}
+
+.nav-heading{
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.speciality, .location{
+    background-color: #ffffff;
+    font-family: 'Hanken Grotesk';
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    height: 45px;
+    width: 500px;
+    margin-right: 10px;
+    margin-top: 10px;
+    padding: 10px;
+    outline: none;
+    cursor: pointer;
+}
+
+.search-button, .search-bar-book-appiontment-button{
+    height: 45px;
+    width: 120px;
+    border: none;
+    border-radius: 8px;
+    font-family: 'Hanken Grotesk';
+    font-size: 18px;
+    background-color:#e31a47;
+    color: #ffffff;
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+.search-bar-book-appiontment-button{
+    width: 220px;
+}
