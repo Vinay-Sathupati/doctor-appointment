@@ -99,25 +99,25 @@ A full-stack web application for browsing doctors and booking appointments. Buil
 ## Screenshots
 
 ### Landing Page
-![Landing Page](./screenshots/landing_page.png)
+![Landing Page](./screenshots/landing_page.PNG)
 
 ### On Search Returning Empty Array
-![Search Page](./screenshots/search_empty.png)
+![Search Page](./screenshots/search_empty.PNG)
 
 ### Failed To Fetch Data
-![Failure View](./screenshots/failure_view.png)
+![Failure View](./screenshots/failure_view.PNG)
 
 ### Doctor Profile Page
-![Profile Page](./screenshots/doctor_profile_page.png)
+![Profile Page](./screenshots/doctor_profile_page.PNG)
 
 ### Book Appointment Page
-![Appointment Page](./screenshots/book_appointment_page.png)
+![Appointment Page](./screenshots/book_appointment_page.PNG)
 
 ### On Booking Success
-![Success Message](./screenshots/success_message.png)
+![Success Message](./screenshots/success_message.PNG)
 
 ### Not Found Page
-![Not Found Page](./screenshots/not_found_page.png)
+![Not Found Page](./screenshots/not_found_page.PNG)
 
 ## 📌 Features
 
